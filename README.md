@@ -9,7 +9,7 @@ Este script permite introducir una URL de YouTube, elegir un formato de descarga
 Ubuntu con acceso sudo
 
 ## Uso
-git clone https://github
+git clone https://github.com/oscrodbue/M8UF4-script.git
 cd yt
 chmod +x procesar_video.sh
 ./procesar_video.sh
